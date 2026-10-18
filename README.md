@@ -4,7 +4,7 @@
 
 ### Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DBCC9&center=true&vCenter=true&width=800&lines=Software+Developer+%7C+Beginner+in+Backend;GFX+Programming;Infraestructure+Linux+%2B+Docker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DBCC9&center=true&vCenter=true&width=800&lines=Software+Developer+%7C+Beginner+in+Backend;GFX+Programming;Infraestructure+%7C+Linux+%2B+Docker" alt="Typing SVG" />
 
 </div>
 
