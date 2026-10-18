@@ -8,6 +8,12 @@
 
 </div>
 
+## About me:
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## More:
+
 - 🌱 I’m currently learning GFX programming
 
 
@@ -16,7 +22,7 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=R1b3z&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=R1b3z&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=R1b3z&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=R1b3z&layout=compact&theme=dark&hide_border=true" alt="Top used languages" />
 
 </div>
 
