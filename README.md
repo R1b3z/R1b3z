@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapi
 
 ## Formation
 
-**Telecommunications and Software Engineering**, Instituto Superior de Engenharia do Porto (ISEP), conclusion coming.
+**Telecommunications and Software Engineering**
 
 <!--
 **R1b3z/R1b3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
